@@ -1,4 +1,4 @@
-# SpringBootBookApp
+# spring-boot-sample-app
 A simple java web application created using Spring Boot. Covered Create, Read, Update and Delete operations.
 
 ### prerequisites
